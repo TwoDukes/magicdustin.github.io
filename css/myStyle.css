@@ -1,4 +1,8 @@
 #dobisicon{
     size: 70%;
-    
+    display: none;
+}
+
+div{
+  display: none;
 }
